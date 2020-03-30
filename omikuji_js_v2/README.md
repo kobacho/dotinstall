@@ -3,10 +3,11 @@
 Practice for Dotinstall
 
 # Content
-omikuji_js
+omikuji_js_v2
 
 # Environment
 - HTML5
+- CSS3
 - JavaScript ES7 (ECMAScript 2016)
 
 ## Licence
